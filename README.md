@@ -4,7 +4,7 @@
 
 ```
 SUPABASE_URL=https://your-supabase-url.supabase.co
-SUPABASE_ANON_KEY=your-anon-key
+SUPABASE_SECRET_KEY=your-anon-key
 ```
 
 Create Virtual Environment
